@@ -38,7 +38,7 @@ public class MainEdge {
 
     public static void main(String[] args) throws IOException {
 
-        path = "C:\\Users\\djordje\\Desktop\\regimedGCRF\\pctdata\\grid_prec";
+        path = "c:\\Users\\Djordje\\Dropbox\\Matlab\\H-GCRF_HCUP_v2.1_yearly\\pctdata\\grid_sid_yearly\\";
 
         loadProperties(path + "\\size.properties");
 
